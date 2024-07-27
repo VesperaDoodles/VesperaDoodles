@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @VesperaDoodles
+- 👀 I’m interested in scripting for maya 2022 rigging  
+- 😄 Pronouns: she/her
